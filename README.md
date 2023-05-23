@@ -101,9 +101,7 @@ Once you've downloaded the models and datasets, you can run the code by adding t
 This project was developed by:
 
 - Misaal Khan, Indian Institute of Technology Jodhpur, India and All India Institute of Medical Science Jodhpur, India
-- Shivang
-
- Agarwal, Indian Institute of Technology Jodhpur, India
+- Shivang Agarwal, Indian Institute of Technology Jodhpur, India
 - Mayank Vatsa, Indian Institute of Technology Jodhpur, India
 - Richa Singh, Indian Institute of Technology Jodhpur, India
 - Kuldeep Singh, All India Institute of Medical Science Jodhpur, India
